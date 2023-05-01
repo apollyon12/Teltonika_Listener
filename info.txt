@@ -1,0 +1,2 @@
+Device ID: / HTTP/1,Speed: 14880, BatteryLevel: 27759, latitude: 77.4966538, longitude: 121.5263604
+Device ID: / HTTP/1,Speed: 14880, BatteryLevel: 27759, latitude: 77.4966538, longitude: 121.5263604
